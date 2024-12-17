@@ -1,1 +1,1 @@
-test code
+print("test")
